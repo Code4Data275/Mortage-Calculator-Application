@@ -21,6 +21,13 @@ M = P * [r * (1 + r)^n / ((1+r)^n) - 1]
 - React Vite
 - Tailwind CSS
 
+## Libraries used 
+- React
+
+## Hooks used
+- useState
+- useEffect
+
 ## Setup
 
 ### Commands
